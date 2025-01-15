@@ -2,6 +2,9 @@ Fork for integration with StableProjectorz - a free AI tool for generating 3D ge
 
 Our Discord https://discord.gg/aWbnX2qan2
 
+
+<h2>Original Repo description:</h2>
+
 ------------------
 
 # Revisiting Image Pyramid Structure for High Resolution Salient Object Detection (InSPyReNet)
