@@ -1,3 +1,9 @@
+Fork for integration with StableProjectorz - a free AI tool for generating 3D geometry and 2D textures https://stableprojectorz.com/
+
+Our Discord https://discord.gg/aWbnX2qan2
+
+------------------
+
 # Revisiting Image Pyramid Structure for High Resolution Salient Object Detection (InSPyReNet)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/revisiting-image-pyramid-structure-for-high/salient-object-detection-on-hku-is)](https://paperswithcode.com/sota/salient-object-detection-on-hku-is?p=revisiting-image-pyramid-structure-for-high)
